@@ -1,4 +1,4 @@
-% close all
+close all
 clear all;
 % close all
 global FZ0 R0 
